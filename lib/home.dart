@@ -93,7 +93,7 @@ class _HomePageState extends State {
   } else {
     print('User declined or has not accepted permission');
   }
-      }
+ }
 
 
 
